@@ -19,11 +19,11 @@
             "required": false,
             "value": "`Hello Seden! I am alive \u2764\ufe0f`"
         },
-        "API_HASH": {
+        "API_HASH": {50d6f3cf44051e8bfb782ee2175dc25b
             "description": "Get this value from my.telegram.org.",
             "required": true
         },
-        "API_ID": {
+        "API_ID": {2609684
             "description": "Get this value from my.telegram.org.",
             "required": true
         },
@@ -36,15 +36,15 @@
             "required": false,
             "value": "/usr/bin/chromedriver"
         },
-        "HEROKU_APPNAME": {
+        "HEROKU_APPNAME": {cartoonarmyworld
             "description": "Add the Heroku app name here. Required for updates.",
             "required": true
         },
-        "HEROKU_KEY": {
+        "HEROKU_KEY": {0ec7522d-b867-4fb4-9199-e1db054e2f0e
             "description": "Heroku API key, get it from 'https://dashboard.heroku.com/account. Required for updates.",
             "required": true
         },
-        "LOG_ID": {
+        "LOG_ID": {-1001474003282
             "description": "Chat ID of the Log group. If value is 0, log feature not work. If value is left blank, logs send in Saved Messages",
             "required": false
         },
@@ -77,7 +77,7 @@
             "required": false,
             "value": "en"
         },
-        "SESSION": {
+        "SESSION": {1
             "description": "Get this value by running python3 session.py in terminal or bash script.",
             "required": true
         }
