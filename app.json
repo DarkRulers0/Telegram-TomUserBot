@@ -44,7 +44,7 @@
             "description": "Heroku API key, get it from 'https://dashboard.heroku.com/account. Required for updates.",
             "required": true
         },
-        "LOG_ID": {-1001474003282
+        "LOG_ID": {-1001224526565
             "description": "Chat ID of the Log group. If value is 0, log feature not work. If value is left blank, logs send in Saved Messages",
             "required": false
         },
