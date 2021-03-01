@@ -77,7 +77,7 @@
             "required": false,
             "value": "en"
         },
-        "SESSION": {1
+        "SESSION": {.
             "description": "Get this value by running python3 session.py in terminal or bash script.",
             "required": true
         }
