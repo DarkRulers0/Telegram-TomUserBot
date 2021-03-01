@@ -40,17 +40,17 @@
         },
         "HEROKU_APPNAME": {
             "description": "Add the Heroku app name here. Required for updates.",
-            "required": true
+            "required": true,
             "value": "cartoonarmyworld"
         },
         "HEROKU_KEY": {
             "description": "Heroku API key, get it from 'https://dashboard.heroku.com/account. Required for updates.",
-            "required": true
+            "required": true,
             "value": "0ec7522d-b867-4fb4-9199-e1db054e2f0e"
         },
         "LOG_ID": {
             "description": "Chat ID of the Log group. If value is 0, log feature not work. If value is left blank, logs send in Saved Messages",
-            "required": false
+            "required": false,
             "value": "-1001224526565"
         },
         "LOG_VERBOSE": {
