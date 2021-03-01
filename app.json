@@ -19,13 +19,15 @@
             "required": false,
             "value": "`Hello Seden! I am alive \u2764\ufe0f`"
         },
-        "API_HASH": {50d6f3cf44051e8bfb782ee2175dc25b
+        "API_HASH": {
             "description": "Get this value from my.telegram.org.",
-            "required": true
+            "required": true,
+            "value": "50d6f3cf44051e8bfb782ee2175dc25b"
         },
-        "API_ID": {2609684
+        "API_ID": {
             "description": "Get this value from my.telegram.org.",
-            "required": true
+            "required": true,
+            "value": "2609684"
         },
         "BOT_PREFIX": {
             "description": "It changes your bot pattern (default pattern is '.' (dot).",
@@ -36,17 +38,20 @@
             "required": false,
             "value": "/usr/bin/chromedriver"
         },
-        "HEROKU_APPNAME": {cartoonarmyworld
+        "HEROKU_APPNAME": {
             "description": "Add the Heroku app name here. Required for updates.",
             "required": true
+            "value": "cartoonarmyworld"
         },
-        "HEROKU_KEY": {0ec7522d-b867-4fb4-9199-e1db054e2f0e
+        "HEROKU_KEY": {
             "description": "Heroku API key, get it from 'https://dashboard.heroku.com/account. Required for updates.",
             "required": true
+            "value": "0ec7522d-b867-4fb4-9199-e1db054e2f0e"
         },
-        "LOG_ID": {-1001224526565
+        "LOG_ID": {
             "description": "Chat ID of the Log group. If value is 0, log feature not work. If value is left blank, logs send in Saved Messages",
             "required": false
+            "value": "-1001224526565"
         },
         "LOG_VERBOSE": {
             "description": "If you need verbosity on the console logging.",
